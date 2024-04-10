@@ -1,0 +1,11 @@
+{
+  "name": "familycallinder",
+  "version": "1.0.0",
+  "description": "> 가족들끼리만 일정을 공유할 수 있는 시스템을 만드는 애플리케이션을 만들고자 하였다.\r > 주로 일정을 다루는 캘린더 어플이며, 양력시스템보단 음력을 중점으로 두는 캘린더이다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
